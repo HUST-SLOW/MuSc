@@ -2,6 +2,8 @@
 
 **This is an official PyTorch implementation for "MuSc : Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images" (MuSc)**
 
+**Note**: The original repo is available at https://github.com/xrli-U/MuSc
+
 Authors:  [Xurui Li](https://github.com/xrli-U)<sup>1*</sup> | [Ziming Huang](https://github.com/ZimingHuang1)<sup>1*</sup> | [Feng Xue](https://xuefeng-cvr.github.io/)<sup>3</sup> | [Yu Zhou](https://github.com/zhouyu-hust)<sup>1,2</sup>
 
 Institutions: <sup>1</sup>Huazhong University of Science and Technology | <sup>2</sup>Wuhan JingCe Electronic Group Co.,LTD | <sup>3</sup>University of Trento
